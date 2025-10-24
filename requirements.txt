@@ -1,0 +1,8 @@
+streamlit
+pandas
+gtts
+deep_translator
+PyPDF2
+python-docx
+sqlite3  tempfile
+jieba  
